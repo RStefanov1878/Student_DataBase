@@ -1,0 +1,11 @@
+Press someone of element in table you can see it's values for every semester 
+Button "Add new student" is to put new element in the table
+		*when you press the button it show new window to make new element
+Button "Edit student information" is to modify information of element in the table
+		*when press the button his text's color become green
+		*then if you press someone of element in table it show new window to modify element
+		*if you want to stop this function you must press button "Edit student information" again
+Button "Remove student" is to remove a element in the table
+		*when press the button his text's color become red
+		*then if you press someone of element in table the element is remove
+		*if you want to stop this function you must press button "Remove student" again
